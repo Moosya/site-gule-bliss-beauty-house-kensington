@@ -1,0 +1,27 @@
+{
+  "shopName": "Gule Bliss Beauty House",
+  "tagline": "Beauty house on Ocean Parkway, Kensington",
+  "phone": "(929) 761-7111",
+  "address": "571 Ocean Pkwy, Brooklyn, NY 11218",
+  "hours": "Mon–Fri 9 AM – 8 PM · Sat–Sun 9 AM – 7 PM",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Hair",
+      "description": "Cuts, color, blowouts, and styling."
+    },
+    {
+      "name": "Brows & threading",
+      "description": "Eyebrow threading, shaping, and waxing."
+    },
+    {
+      "name": "Walk-ins & appointments",
+      "description": "Call or stop by to book a time."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "gule-bliss-beauty-house-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
